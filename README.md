@@ -18,7 +18,7 @@ var config = {
 wenjuan.init(config);
 
 
-//获取所有的问卷列表
+//获取所有问卷网的登录链接
 var options = {
     user: 1,
     ctime: '2014-12-1 12:00',
@@ -70,7 +70,7 @@ var options = {
 };
 ```
 
-#### getPaperResult
+#### getPaperResult(options)
 查看结果报表 URL
 
 
@@ -85,7 +85,7 @@ var options = {
 };
 ```
 
-#### getUserPaper
+#### getUserPaper(options)
 查看答题者最新一条答卷详情
 
 var options = {
