@@ -1,0 +1,17 @@
+{
+  "name": "wenjuan",
+  "version": "0.0.1",
+  "public": true,
+  "author": "Liu Xing <shanelau1021@gmail.com> (http://kissliux.github.io)",
+  "description": "问卷网,第三方接入API文档",
+  "email": "shanelau1021@gmail.com",
+  "main": "lib/index.js",
+  "dependencies": {
+    "MD5": "^1.2.1",
+    "bluebird": "^2.3.11",
+    "lodash": "^2.4.1",
+    "md5-node": "^1.0.1",
+    "morgan": "~1.0.0",
+    "should": "^4.3.0"
+  }
+}
