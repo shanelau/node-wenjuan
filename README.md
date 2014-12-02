@@ -18,7 +18,7 @@ var config = {
 wenjuan.init(config);
 
 
-//获取所有问卷网的登录链接
+//获取问卷网第三方用户登录链接
 var options = {
     user: 1,
     ctime: '2014-12-1 12:00',
